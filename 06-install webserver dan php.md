@@ -1,6 +1,7 @@
 ###  6. Install aplikasi web server di komputer kamu, kemudian install php di web server tersebut (dilarang menggunakan aplikasi seperti xampp, lampp).
 
 ###Install webserver apache
+
 $ sudo apt-get update
 $ sudo apt-get install -y apache2 (menggunakan webserver apache)
 $ sudo apache2ctl configtestOutput
