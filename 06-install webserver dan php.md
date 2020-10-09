@@ -20,7 +20,8 @@ Available applications:
   OpenSSH
 
 $ sudo service apache2 start
-http://localhost/
+
+link webserver: http://localhost/
 
 ###Install MySql
 
@@ -41,4 +42,4 @@ isi:
 		phpinfo(); 
 	?>
 
-http://localhost/test.php
+link php: http://localhost/test.php
