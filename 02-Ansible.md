@@ -4,5 +4,6 @@ Ansible adalah sebuah tool Automation. Ansible dapat membantu melakukan instalas
 
 ###Kelebihan menggunakan Ansible:
 dapat melakukan pengelolaan server yang lebih mudah dan terstruktur. Selain itu dapat menghemat waktu kita untuk mengeksekusi proses konfigurasi atau deployment yang sama terhadap beberapa server yang kita miliki.
+
 ###Kekurangan menggunakan Ansible:
 untuk menjalankan ansible di server deployment minimal memiliki library python di dalam server deployment tersebut.
