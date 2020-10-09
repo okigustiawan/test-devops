@@ -1,4 +1,4 @@
-# test-dumbways
+# test-devops
 
 ###(1)	sistem operasi yang digunakan:
 Windows 10 Pro 64-bit (10.0, Build 19041)
