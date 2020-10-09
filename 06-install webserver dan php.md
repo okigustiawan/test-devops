@@ -22,10 +22,12 @@ $ sudo service apache2 start
 http://localhost/
 
 ###Install MySql
+
 $ sudo apt-get install mysql-server
 $ sudo service mysql start
 
 ###Install Php
+
 sudo apt update
 sudo apt install -y build-essential
 sudo apt install php php-pear php-dev libmcrypt-dev
