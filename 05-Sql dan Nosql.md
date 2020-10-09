@@ -1,0 +1,5 @@
+### 5. Definisikan database SQL dan NoSQL menurut Kamu, serta berikan contoh dari masing-masing database yang telah Kamu sebutkan?
+
+###SQL merupakan singkatan dari Structured Query Language. Sebenarnya SQL sendiri merupakan bahasa yang digunakan untuk mengatur/mengelola data dalam database relasional. Jadi sebenarnya SQL sendiri pada mulanya tidak digunakan untuk menyebut jenis database. Database relasional menggunakan ‘relasi’ (yang biasanya disebut tabel) untuk menyimpan data dan mencocokkan data tersebut dengan memakai karakteristik umum di setiap dataset. Beberapa contoh database management system yang menggunakan SQL antara lain Oracle, Sybase, Microsoft SQL Server, PostgreSQL.
+
+###NoSQL merupakan database yang tidak membutuhkan skema dan tidak memiliki relasi untuk setiap tabel. Semua bentuk dokumen dari NoSQL adalah JSON yang mudah dibaca dan dimengerti. NoSQL banyak diminati karena memiliki performa yang tinggi dan bersifat non-relasional sehingga dapat memakai berbagai model data. Beberapa contoh dari database NoSQL yaitu MongoDB, MarkLogic, Couchbase, CloudDB, dan Dynamo DB.
